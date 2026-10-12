@@ -18,10 +18,10 @@ tienen diferentes habilidades y formas de jugar distintas . El objetivo sera baj
 
 | Nombre y apellidos | Correo URJC | GitHub |
 | :--- | :--- | :--- |
-| Lucía Guzmán| l.guzman.2024@alumnos.urjc.es |`@alumno2-ejemplo` |
+| Lucía Guzmán| l.guzman.2024@alumnos.urjc.es |`@Lguzman2024`|
 | David Tardío |d.tardio.2024@alumnos.urjc.es | `@alumno2-ejemplo` |
-| David Perez | d.perezt.2024@alumnos.urjc.es | `@alumno3-ejemplo` |
-| Paula Armenteros | p.armenteros.2024@alumnos.urjc.es | `@alumno4-ejemplo` |
+| David Perez | d.perezt.2024@alumnos.urjc.es | `@DavidPerezT|
+| Paula Armenteros | p.armenteros.2024@alumnos.urjc.es | `@Pau0030` |
 
 **Repositorio:** https://github.com/DavidPerezT/Juegos_En_Red_GrupoI.git
 
