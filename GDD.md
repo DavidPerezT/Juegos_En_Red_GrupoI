@@ -34,9 +34,9 @@ y eligiendo el momento adecuado.
 - Característica diferencial 2: Ataques con diferentes areas y efectos.
 - Característica diferencial 3: Combates dinamicos y competitivos.
 
-![Imagen promocional / key art del juego](img/portada_presentacion.png)
+![Boceto Básico Ataques](Imágenes /Bocetos/BocetosuperbasicoRangoataque. jpg)
 
-*Figura 1. Imagen promocional del juego.*
+*Figura 1.*
 
 
 ## 2. Especificaciones básicas
