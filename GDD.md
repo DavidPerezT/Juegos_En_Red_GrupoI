@@ -34,10 +34,6 @@ y eligiendo el momento adecuado.
 - Característica diferencial 2: Ataques con diferentes areas y efectos.
 - Característica diferencial 3: Combates dinamicos y competitivos.
 
-![Boceto Básico Ataques](Imágenes /Bocetos/BocetosuperbasicoRangoataque. jpg)
-
-*Figura 1.*
-
 
 ## 2. Especificaciones básicas
 
@@ -123,6 +119,11 @@ En cualquier caso, la animación debe tener una cantidad considerable de end-lag
 tiempo suficiente para que el jugador pueda reaccionar y soltar el botón, pero sólo si tiene muy buenos reflejos.
 
 Es importante evitar espacios huecos en los que el protagonista pueda permanecer sin riesgo.
+
+
+![Boceto Básico Ataques](Imágenes/Bocetos/BocetosuperbasicoRangoataque.jpg)
+
+*Figura 1.*
 
 **Rotación y láser.**
 
