@@ -1,6 +1,6 @@
 # Juegos_En_Red_GrupoI
 <p align="center">
-  <img src="img/logo.png" alt="Logotipo de AAA" width="400">
+  <img src="img/logo.png" alt="Nuestro futuro logotipo " width="400">
 </p>
 
 # Grupo I  — Hombres lobo 
@@ -19,7 +19,7 @@ tienen diferentes habilidades y formas de jugar distintas . El objetivo sera baj
 | Nombre y apellidos | Correo URJC | GitHub |
 | :--- | :--- | :--- |
 | Lucía Guzmán| l.guzman.2024@alumnos.urjc.es |`@Lguzman2024`|
-| David Tardío |d.tardio.2024@alumnos.urjc.es | `@alumno2-ejemplo` |
+| David Tardío |d.tardio.2024@alumnos.urjc.es | `@DavidT` |
 | David Perez | d.perezt.2024@alumnos.urjc.es | `@DavidPerezT` |
 | Paula Armenteros | p.armenteros.2024@alumnos.urjc.es | `@Pau0030` | 
 
