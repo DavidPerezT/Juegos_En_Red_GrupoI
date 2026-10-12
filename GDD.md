@@ -73,7 +73,7 @@ La partida termina cuando alguno de los dos personajes llega a 0 puntos de vida,
 | Moverse a la derecha | `D` | `→` |
 | Saltar | `W` | `↑` |
 | Ataque | `Espacio` |
-| Defensa| | `Espacio` |
+| Defensa| | `Enter` |
 | Pausa | `Esc` | `Esc` |
 
 ### 3.3. Mecánicas
@@ -82,9 +82,9 @@ La partida termina cuando alguno de los dos personajes llega a 0 puntos de vida,
 #### 3.3.1. Mecánicas principales
 
 - **Movimiento.:**
-- El protagonista podrá moverse de forma lineal en cualquier dirección (exceptuando en diagonales). El personaje se moverá
-- a un ritmo relativamente lento, para incentivar el uso de la acción de defender. 
--
+El protagonista podrá moverse de forma lineal en cualquier dirección (exceptuando en diagonales). El personaje se moverá
+a un ritmo relativamente lento, para incentivar el uso de la acción de defender. 
+
 - **Ataque.:**
 El protagonista podrá atacar desde cualquier punto si no está realizando otro ataque o una defensa en el instante en el que el 
 jugador presione el botón. Esto ejecutará una animación que impedirá al jugador realizar cualquier otra acción, incluyendo moverse.
