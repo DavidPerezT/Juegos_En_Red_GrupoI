@@ -1,4 +1,4 @@
-# AAA — Game Design Document
+# Hombre Lobo — Game Design Document
 
 [← Volver al README](README.md)
 
@@ -9,12 +9,10 @@
 1. [Introducción](#1-introducción)
 2. [Especificaciones básicas](#2-especificaciones-básicas)
 3. [Jugabilidad](#3-jugabilidad)
-4. [Narrativa](#4-narrativa)
-5. [Imagen y diseño visual](#5-imagen-y-diseño-visual)
-6. [Sonido](#6-sonido)
-7. [Interfaz y diagrama de flujo](#7-interfaz-y-diagrama-de-flujo)
-8. [Comunicación y marketing](#8-comunicación-y-marketing)
-9. [Referencias](#9-referencias)
+4. [Imagen y diseño visual](#5-imagen-y-diseño-visual)
+5. [Sonido](#6-sonido)
+6. [Interfaz y diagrama de flujo](#7-interfaz-y-diagrama-de-flujo)
+7. [Referencias](#9-referencias)
 
 ## 1. Introducción
 
@@ -74,8 +72,8 @@ La partida termina cuando alguno de los dos personajes llega a 0 puntos de vida,
 | Moverse a la izquierda | `A` | `←` |
 | Moverse a la derecha | `D` | `→` |
 | Saltar | `W` | `↑` |
-| Acción especial AAA | `Espacio` | `Enter` |
-| Apuntar / disparar | Ratón (clic izquierdo) | Ratón (clic izquierdo) |
+| Ataque | `Espacio` |
+| Defensa| | `Espacio` |
 | Pausa | `Esc` | `Esc` |
 
 ### 3.3. Mecánicas
@@ -189,19 +187,6 @@ número de obstáculos que aparezcan. Si el jugador tiene un menor porcentaje de
 En pantalla debería haber siempre un máximo de obstáculos que hayan aparecido. O bien se elimina el obstáculo más antiguo y se spawnea otro en otro lugar, o bien simplemente se espera a que un ataque del hombre lobo rompa 
 obstáculos.
 
-
-
-
-## 4. Narrativa
-
-> *Rúbrica — Narrativa:* riqueza de la historia principal y de los personajes.
-
-### 4.1. Historia
-
-AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA.
-
-AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA.
-
 ### 4.2. Personajes
 
 #### Protagonista
@@ -209,106 +194,48 @@ AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA.
 <img src="img/personaje_1.png" alt="Boceto del personaje AAA" width="250">
 
 - **Edad / origen:** 40 años y su ciudad de origen es de islancia
-- **Personalidad:** AAA AAA AAA.
-- **Motivación:** AAA AAA AAA.
-- **Habilidad especial:** AAA AAA AAA.
-- **Trasfondo:** AAA AAA AAA AAA AAA AAA AAA AAA AAA.
+- **Personalidad:** La personalidad sera neutra oara que el jugadorpueda darle la que quiera.
+- **Habilidad especial:**  Ataque y defensa .
 
-#### BBB (Jugador 2)
+#### Hombre lobo 
 
 <img src="img/personaje_2.png" alt="Boceto del personaje BBB" width="250">
 
-- **Edad / origen:** BBB.
-- **Personalidad:** BBB BBB BBB.
-- **Motivación:** BBB BBB BBB.
-- **Habilidad especial:** BBB BBB BBB.
-- **Trasfondo:** BBB BBB BBB BBB BBB BBB BBB BBB BBB.
-
-#### CCC (enemigo / personaje no jugable)
-
-<img src="img/enemigo_1.png" alt="Boceto del enemigo CCC" width="250">
-
-CCC CCC CCC CCC CCC CCC CCC CCC.
-
+- **Edad / origen:** Ni se sabe la edad y su lugar de origen es Islandia. 
+- **Personalidad:** Agresivo y malvado.
+- **Habilidad especial:** Zarpazos y agarres.
 ---
 
 ## 5. Imagen y diseño visual
 
-### 5.1. Logotipo
-
-> *Rúbrica — Imagen / Logotipo.*
-
-![Logotipo del juego](img/logo.png)
-
-*Figura 3. Logotipo del juego. Tipografía: AAA. Concepto: AAA AAA AAA.*
 
 ### 5.2. Estilo visual
 
-> *Rúbrica — Imagen / Estilo visual:* pixel art, cartoon, vectorial, etc.
 
-El juego utiliza un estilo **AAA** (p. ej. *pixel art* de 32×32 píxeles) porque AAA AAA AAA.
-
-### 5.3. Uso de colores
-
-> *Rúbrica — Imagen / Descripción visual:* uso de colores.
-
-![Paleta de colores](img/paleta_colores.png)
-
-*Figura 4. Paleta de colores del juego.*
-
-- **Fondo (`#1B1F3B`):** AAA AAA AAA.
-- **Jugador 1 (`#E94560`) / Jugador 2 (`#0F9BD7`):** colores complementarios para distinguir fácilmente a cada jugador.
-- **Objetos (`#F5C518`):** AAA AAA AAA.
+El juego utiliza un estilo estilo visual simple y atractivo: busca una apariencia limpia, llamativa y fácil de entender.
 
 ### 5.4. Aspectos técnicos: cámara y representación
 
-> *Rúbrica — Imagen / Aspectos técnicos:* uso de cámara y 2D/3D.
+- **Representación:** 2D, vista cenital
+- **Cámara:** fija mostrando todo el escenario y alos dos jugadores en pantalla.
+- **Resolución base:** 1920 × 1080 píxeles.
 
-- **Representación:** 2D, vista AAA (lateral / cenital / isométrica).
-- **Cámara:** AAA (fija mostrando todo el escenario / sigue a ambos jugadores con *zoom* dinámico / pantalla dividida...).
-- **Resolución base:** AAA × AAA píxeles.
-
-### 5.5. Inspiración artística y cultural
-
-> *Rúbrica — Imagen / Inspiración:* referentes artísticos y culturales y vínculo con otros trabajos.
-
-![Moodboard de inspiración](img/moodboard_inspiracion.png)
-
-*Figura 5. Moodboard con las referencias visuales.*
-
-- **AAA** (videojuego, año): tomamos AAA AAA AAA [1].
-- **BBB** (película / cómic / movimiento artístico): BBB BBB BBB [2].
-- **CCC** (referencia cultural): CCC CCC CCC.
 
 ### 5.6. Bocetos de personajes y pantallas
 
-> *Rúbrica — Imagen / Bocetos:* interfaz de menú, pantallas y personajes.
-
-Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes) y los de las pantallas en el apartado [7.1](#71-pantallas).
 
 ---
 
 ## 6. Sonido
 
-> *Rúbrica — Sonido:* música y efectos.
-
 ### 6.1. Banda sonora
 
-| Pista | Escena | Estilo / ambiente | Fuente / licencia |
-| :--- | :--- | :--- | :--- |
-| AAA | Menú principal | AAA (p. ej. *chiptune* relajado) | AAA (propia / CC-BY...) |
-| BBB | Partida | BBB (p. ej. ritmo rápido, 140 BPM) | BBB |
-| CCC | Victoria / derrota | CCC | CCC |
+| Utilizaremos una musica que genere un habiente de tension y nervisismo. 
 
 ### 6.2. Efectos de sonido
 
-| Efecto | Momento en que se reproduce |
-| :--- | :--- |
-| Salto | Al pulsar la tecla de salto |
-| Golpe / impacto | AAA |
-| Recoger objeto | AAA |
-| Botones de la interfaz | Al pasar el ratón y al hacer clic |
-| Cuenta atrás | AAA |
+Se añadiran diferentes efectos de sonido cuando se realizen los ataqued y defensas de los personajes
+
 
 ---
 
@@ -320,80 +247,22 @@ Los bocetos de los personajes se encuentran en el apartado [4.2](#42-personajes)
 
 ![Boceto del menú principal](img/boceto_menu_principal.png)
 
-*Figura 6. Menú principal: AAA AAA AAA.*
+*Figura 6. Menú principal: Añadira una pantalla de inicio de juego y de opciones del menj y por ultimo la opciom de salir del juego.*
 
 **Pantalla de juego (HUD)**
 
 ![Boceto de la pantalla de juego](img/boceto_pantalla_juego.png)
 
-*Figura 7. Pantalla de juego: AAA AAA AAA.*
+*Figura 7. Pantalla de juego: Sera domde aparezca el escenario y los diferentes personajes.*
 
-**Ajustes y fin de partida**
-
-<p align="center">
-  <img src="img/boceto_ajustes.png" alt="Boceto de ajustes" width="45%">
-  <img src="img/boceto_fin_partida.png" alt="Boceto de fin de partida" width="45%">
-</p>
-
-*Figura 8. Pantalla de ajustes (izquierda) y fin de partida (derecha).*
 
 ### 7.2. Diagrama de flujo
 
-> *Rúbrica — Documento / Diagrama de flujo.* Podéis usar Mermaid (GitHub lo renderiza directamente) o una imagen exportada.
-
-**Opción 1 — Mermaid** (se dibuja automáticamente en GitHub):
-
-```mermaid
-flowchart TD
-    A[Pantalla de carga] --> B[Menú principal]
-    B --> C[Jugar]
-    B --> D[Ajustes]
-    B --> E[Ayuda]
-    B --> F[Créditos]
-    D --> B
-    E --> B
-    F --> B
-    C --> G[Partida]
-    G -->|Esc| H[Pausa]
-    H -->|Reanudar| G
-    H -->|Salir| B
-    G -->|Condición de victoria| I[Fin de partida]
-    I -->|Revancha| G
-    I -->|Volver| B
-```
-
-**Opción 2 — Imagen** exportada desde draw.io, Excalidraw, Figma...:
-
-![Diagrama de flujo del juego](img/diagrama_flujo.png)
-
-*Figura 9. Diagrama de flujo entre pantallas.*
-
----
-
-## 8. Comunicación y marketing
-
-> *Rúbrica — Comunicación / Marketing.*
-
-- **Público y mensaje clave:** AAA AAA AAA.
-- **Canales:** redes sociales (AAA, BBB), itch.io, Newgrounds, Game Jolt...
-- **Calendario:** *teaser* en AAA, *devlog* semanal en AAA, lanzamiento en AAA.
-- **Material:** tráiler, capturas, GIF de jugabilidad, *press kit*.
-- **Eslogan:** «AAA AAA AAA».
+La desarollaremos automaticamente a lo largo del desarollo del proyecto a traves de github.
 
 ---
 
 ## 9. Referencias
 
-> *Rúbrica — Documento / Referencias.* Usad un formato consistente (p. ej. APA) y citadlas en el texto con [1], [2]...
 
-[1] AAA, A. (Año). *Título de la obra*. Editorial / Estudio. URL
-
-[2] BBB, B. (Año). *Título del artículo*. Revista, volumen(número), páginas. https://doi.org/AAA
-
-[3] Schell, J. (2019). *The Art of Game Design: A Book of Lenses* (3.ª ed.). CRC Press.
-
-[4] Phaser Studio. (s. f.). *Phaser 3 Documentation*. https://docs.phaser.io
-
-[5] Recursos de terceros utilizados (sprites, música, fuentes): AAA — autor — licencia — URL.
-
-sexoooooo
+[1] Mega Man Battle Network . (2001) Capcoon.
