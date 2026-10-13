@@ -221,11 +221,11 @@ El juego utiliza un estilo estilo visual simple y atractivo: busca una aparienci
 ### 5.6. Bocetos de personajes y pantallas
 
 - **Protagonista:**
-<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/eb0c90d227d808113ef8af0bc038ca410653ca72/Im%C3%A1genes%20/Personajes/Bocetos/Prota.png" alt="Boceto del personaje BBB" width="250">
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/eb0c90d227d808113ef8af0bc038ca410653ca72/Im%C3%A1genes%20/Personajes/Bocetos/Prota.png" alt="Boceto del personaje " width="250">
 - **Hombre lobo:**
-<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje AAA" width="250">
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje" width="250">
 - **Parte UI:**
-<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje AAA" width="250">
+<img src="[https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del Ui](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/fa0d525c5151fbed24d258e7f0f57f79d983219c/Im%C3%A1genes%20/Bocetos/BocetoBasicoUIcon.jpg)" width="250">
 ---
 
 ## 6. Sonido
