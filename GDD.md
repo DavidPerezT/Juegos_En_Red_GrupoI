@@ -192,15 +192,12 @@ obstáculos.
 ### 4.2. Personajes
 
 #### Protagonista
-<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/eb0c90d227d808113ef8af0bc038ca410653ca72/Im%C3%A1genes%20/Personajes/Bocetos/Prota.png" alt="Boceto del personaje BBB" width="250">
 
 - **Edad / origen:** 40 años y su ciudad de origen es de islancia
 - **Personalidad:** La personalidad sera neutra oara que el jugadorpueda darle la que quiera.
 - **Habilidad especial:**  Ataque y defensa .
 
 #### Hombre lobo 
-
-<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje AAA" width="250">
 
 - **Edad / origen:** Ni se sabe la edad y su lugar de origen es Islandia. 
 - **Personalidad:** Agresivo y malvado.
@@ -223,7 +220,12 @@ El juego utiliza un estilo estilo visual simple y atractivo: busca una aparienci
 
 ### 5.6. Bocetos de personajes y pantallas
 
-
+- **Protagonista:**
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/eb0c90d227d808113ef8af0bc038ca410653ca72/Im%C3%A1genes%20/Personajes/Bocetos/Prota.png" alt="Boceto del personaje BBB" width="250">
+- **Hombre lobo:**
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje AAA" width="250">
+- **Parte UI:**
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje AAA" width="250">
 ---
 
 ## 6. Sonido
