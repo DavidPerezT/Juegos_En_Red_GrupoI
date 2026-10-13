@@ -1,6 +1,6 @@
 # Juegos_En_Red_GrupoI
 <p align="center">
-  <img src="img/logo.png" alt="Nuestro futuro logotipo " width="400">
+  <img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/020be0b5a3a52d2ccd751ee926b599d8cd7bfe05/Im%C3%A1genes%20/Logo/Logo.jpg" alt="Logotipo " width="400">
 </p>
 
 # Grupo I  — Hombres lobo 
