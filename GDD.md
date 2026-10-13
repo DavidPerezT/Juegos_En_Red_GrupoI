@@ -192,7 +192,7 @@ obstáculos.
 
 #### Protagonista
 
-<img src="img/personaje_1.png" alt="Boceto del personaje AAA" width="250">
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/f5b4a97fdcc2dd55e815024fcc85975ec217fb23/Im%C3%A1genes%20/Personajes/Bocetos/Lobo.png" alt="Boceto del personaje AAA" width="250">
 
 - **Edad / origen:** 40 años y su ciudad de origen es de islancia
 - **Personalidad:** La personalidad sera neutra oara que el jugadorpueda darle la que quiera.
