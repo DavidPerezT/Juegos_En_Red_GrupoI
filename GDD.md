@@ -156,8 +156,8 @@ de puntos de vida al comienzo de la partida y éstos se reducen con cada ataque 
 - **Rebotes / fricción / empujes:** NO hay.
 - **Plataformas móviles o superficies especiales (hielo, rebote...):** No hay.
 - **Progresión de la dificultad:** a medida que avanza la partida Si el jugador tiene un mayor porcentaje de vida, debería aumentarse el número de obstáculos que aparezcan.
-- Si el jugador tiene un menor porcentaje de vida, debería disminuirse el número de obstáculos que aparezcan.
-.
+Si el jugador tiene un menor porcentaje de vida, debería disminuirse el número de obstáculos que aparezcan.
+
 
 ### 3.5. Escenario
 
@@ -211,7 +211,6 @@ obstáculos.
 
 ### 5.2. Estilo visual
 
-
 El juego utiliza un estilo estilo visual simple y atractivo: busca una apariencia limpia, llamativa y fácil de entender.
 
 ### 5.4. Aspectos técnicos: cámara y representación
@@ -245,16 +244,11 @@ Se añadiran diferentes efectos de sonido cuando se realizen los ataqued y defen
 
 **Menú principal**
 
-![Boceto del menú principal](img/boceto_menu_principal.png)
-
-*Figura 6. Menú principal: Añadira una pantalla de inicio de juego y de opciones del menj y por ultimo la opciom de salir del juego.*
+se añadirá una pabtalla principal en la que tengas las opciones, el inicio de juego y el botón de salir
 
 **Pantalla de juego (HUD)**
 
-![Boceto de la pantalla de juego](img/boceto_pantalla_juego.png)
-
-*Figura 7. Pantalla de juego: Sera domde aparezca el escenario y los diferentes personajes.*
-
+se tendrá el indicador de vida y delos ataques a realizar
 
 ### 7.2. Diagrama de flujo
 
