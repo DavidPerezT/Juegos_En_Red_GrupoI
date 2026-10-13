@@ -109,7 +109,7 @@ difícil de realizar a nivel técnico.
  El hombre lobo podrá hace zarpazos que ocupan una gran parte del espacio jugable. Sin embargo, sólo podrá hacer un zarpazo a la vez. El jugador tendrá la opción de hacerlo 
  a la izquierda o a la derecha. Estará siempre telegrafiado. 
 
-** Agarre:**
+**Agarre:**
 El agarre es otro ataque en área con dos áreas distintas de efecto, siendo casi dos ataques distintos en función de qué tan lejos está el protagonista.
 
 En una distancia corta, el agarre actúa como un ataque en área que ignora la defensa del protagonista. Causa una cantidad definida de daño independientemente de si el protagonista está defendiendo o no.
@@ -136,7 +136,7 @@ La rotación NO afectará al láser una vez creado.
 A la izquierda. el láser rápido. A la derecha, el láser expandido que llega después (el jugador se ha movido y lo esquivó por los pelos).
 
 La rotación NO afecta a ningún otro ataque. La rotación está limitada a rotar hasta que el hombre lobo mire completamente a la izquierda, o a la derecha. 
-
+![Boceto Básico Láser](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/d5cfad28e0eff7b168be0c73cd3443c5d89d705d/Im%C3%A1genes%20/Bocetos/BocetoBasicoLasercon.jpg))
 
 #### 3.3.2. Objetos y power-ups
 
