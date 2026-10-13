@@ -165,7 +165,7 @@ El escenario representa de forma rectangular pero que no sea algo demasiado anch
 . Se compone de la zonas de comabte:
 
 1. **Zona personaje :** Sera por el lado el cual aparezera en personaje para iniciar el juego .
-2. **Zona Lobo ** Sera por el lado en el que aparezca el lobo para iniciar el jego .
+2. **Zona Lobo :** Sera por el lado en el que aparezca el lobo para iniciar el jego .
 
 ![Mapa del escenario](img/mapa_escenario.png)
 
@@ -244,11 +244,11 @@ Se añadiran diferentes efectos de sonido cuando se realizen los ataqued y defen
 
 **Menú principal**
 
-se añadirá una pabtalla principal en la que tengas las opciones, el inicio de juego y el botón de salir
+Se añadirá una pabtalla principal en la que tengas las opciones, el inicio de juego y el botón de salir
 
 **Pantalla de juego (HUD)**
 
-se tendrá el indicador de vida y delos ataques a realizar
+Se tendrá el indicador de vida y delos ataques a realizar
 
 ### 7.2. Diagrama de flujo
 
