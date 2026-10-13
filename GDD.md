@@ -167,9 +167,11 @@ El escenario representa de forma rectangular pero que no sea algo demasiado anch
 1. **Zona personaje :** Sera por el lado el cual aparezera en personaje para iniciar el juego .
 2. **Zona Lobo :** Sera por el lado en el que aparezca el lobo para iniciar el jego .
 
-![Mapa del escenario](img/mapa_escenario.png)
+![Mapa del escenario](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/4ac3b9e9239265f60c3b6ffeba0882afcad2b165/Im%C3%A1genes%20/Bocetos/BocetoBasicoEscenarioCon.jpg)
 
-*Figura 2. Mapa del escenario con zonas de aparición, plataformas y obstáculos.*
+![Mapa del escenario](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/4ac3b9e9239265f60c3b6ffeba0882afcad2b165/Im%C3%A1genes%20/Bocetos/BocetoBasicoEscenarioCon.jpg)
+
+*Figura 2 y 3. Mapa del escenario con zonas de aparición, plataformas y obstáculos.*
 
 ## Obstáculos para el escenario
 Podrán aparecer algunos obstáculos en la sección del protagonista de forma aleatoria. Estos obstáculos serán aproximadamente del tamaño del protagonista. Aparecerán con una pequeña animación de construirse antes 
