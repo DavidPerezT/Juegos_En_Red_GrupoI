@@ -169,7 +169,7 @@ El escenario representa de forma rectangular pero que no sea algo demasiado anch
 
 ![Mapa del escenario](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/4ac3b9e9239265f60c3b6ffeba0882afcad2b165/Im%C3%A1genes%20/Bocetos/BocetoBasicoEscenarioCon.jpg)
 
-![Mapa del escenario](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/4ac3b9e9239265f60c3b6ffeba0882afcad2b165/Im%C3%A1genes%20/Bocetos/BocetoBasicoEscenarioCon.jpg)
+![Mapa del escenario](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/59a3a9d4f21ec33776d3b00a3e59b019b1729484/Im%C3%A1genes%20/Bocetos/BocetoBasicoCasillasCon.jpg)
 
 *Figura 2 y 3. Mapa del escenario con zonas de aparición, plataformas y obstáculos.*
 
