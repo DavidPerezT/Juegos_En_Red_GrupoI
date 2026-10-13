@@ -121,9 +121,8 @@ tiempo suficiente para que el jugador pueda reaccionar y soltar el botón, pero 
 Es importante evitar espacios huecos en los que el protagonista pueda permanecer sin riesgo.
 
 
-![Boceto Básico Ataques](Imágenes/Bocetos/BocetosuperbasicoRangoataque.jpg)
+![Boceto Básico Ataques](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/3332d567a7d089e8bf0a2691a041314ce7fa53bc/Im%C3%A1genes%20/Bocetos/RangoPersonajes.jpg)
 
-*Figura 1.*
 
 **Rotación y láser.**
 
