@@ -28,7 +28,7 @@ tienen diferentes habilidades y formas de jugar distintas . El objetivo sera baj
 **Licencia:** [Apache 2.0](LICENSE)
 
 ---
-
+  
 ## Game Design Document
 
 📄 El documento de diseño completo está en **[GDD.md](GDD.md)**.
