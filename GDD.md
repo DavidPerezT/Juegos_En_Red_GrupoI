@@ -254,9 +254,15 @@ Se añadiran diferentes efectos de sonido cuando se realizen los ataqued y defen
 
 Se añadirá una pabtalla principal en la que tengas las opciones, el inicio de juego y el botón de salir
 
+- **Imágen final:**
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/cc41549b1d44ec46898028bf0dd536f81e1b372c/Im%C3%A1genes%20/Pantalla%20inicio/fondoConTodo.png" alt="Boceto del personaje" width="250">
+
 **Pantalla de juego (HUD)**
 
 Se tendrá el indicador de vida y delos ataques a realizar
+
+- **Imágen escenario:**
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/cc41549b1d44ec46898028bf0dd536f81e1b372c/Im%C3%A1genes%20/Escenario/fondo%20pelea.png" alt="Boceto del personaje" width="250">
 
 ### 7.2. Diagrama de flujo
 
