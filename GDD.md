@@ -230,7 +230,7 @@ El juego utiliza un estilo estilo visual simple y atractivo: busca una aparienci
 - **Imágenes finales:**
 <img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/38394764c98e0400403d360855337dd70c799294/Im%C3%A1genes%20/Sprits/Loboo/lobo3.png" alt="Boceto del personaje" width="250">
 
-<img src="(https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/493a275b080007f2db7b496d92a0954e3dce223e/Im%C3%A1genes%20/Sprits/Humano/Humano.png)" alt="Boceto del personaje" width="250">
+<img src="https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/493a275b080007f2db7b496d92a0954e3dce223e/Im%C3%A1genes%20/Sprits/Humano/Humano.png" width="250">
 ---
 
 ## 6. Sonido
