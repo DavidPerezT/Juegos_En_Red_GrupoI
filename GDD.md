@@ -110,15 +110,11 @@ difícil de realizar a nivel técnico.
  a la izquierda o a la derecha. Estará siempre telegrafiado. 
 
 **Agarre:**
-El agarre es otro ataque en área con dos áreas distintas de efecto, siendo casi dos ataques distintos en función de qué tan lejos está el protagonista.
+Se implementarán dos hitboxes para definir el alcance del ataque de agarre del hombre lobo: una hitbox interna, situada cerca del personaje, y una hitbox externa, ubicada en la parte inferior de la pantalla.
 
-En una distancia corta, el agarre actúa como un ataque en área que ignora la defensa del protagonista. Causa una cantidad definida de daño independientemente de si el protagonista está defendiendo o no.
-En una distancia mucho más larga, el agarre causa daño exclusivamente si el protagonista está defendiendo. En caso contrario, no causará daño.
+***Hitbox interna:*** tendrá un área de detección reducida, pero permitirá ejecutar el ataque en un menor tiempo de activación. Este ataque ignorará la defensa del héroe y causará una cantidad elevada de daño.
 
-En cualquier caso, la animación debe tener una cantidad considerable de end-lag, para evitar abusar de dicho ataque, y así ser vulnerable ante el protagonista en caso de fallar, y un start-up que de el
-tiempo suficiente para que el jugador pueda reaccionar y soltar el botón, pero sólo si tiene muy buenos reflejos.
-
-Es importante evitar espacios huecos en los que el protagonista pueda permanecer sin riesgo.
+***Hitbox externa:*** contará con un área de detección considerablemente mayor, aunque requerirá más tiempo para activarse. Al igual que la hitbox interna, ignorará la defensa del héroe, pero causará una cantidad reducida de daño.
 
 
 ![Boceto Básico Ataques](https://github.com/DavidPerezT/Juegos_En_Red_GrupoI/blob/3332d567a7d089e8bf0a2691a041314ce7fa53bc/Im%C3%A1genes%20/Bocetos/RangoPersonajes.jpg)
